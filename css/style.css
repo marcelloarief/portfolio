@@ -8,3 +8,7 @@ nav {
     position: sticky;
     top: 0px;
 }
+
+section {
+    text-align: center;
+}
