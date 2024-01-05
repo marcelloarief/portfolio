@@ -1,0 +1,10 @@
+nav button{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+nav {
+    background-color: aquamarine;
+    position: sticky;
+    top: 0px;
+}
